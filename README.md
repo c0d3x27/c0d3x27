@@ -50,11 +50,11 @@
 
 ---
 
-<details>
+
   
 ![c0d3x27's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0d3x27&show_icons=true&theme=vue)
 
-</details>
+
 
 
 
