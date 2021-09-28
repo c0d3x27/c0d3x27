@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Developer, and Bug Hunter!!
 
-- 🎓  I’m currently learning everything 💪,
+- 🎓  I’m currently learning everything 💪
 - 🥅  Always willing to collaborate in any import project
 - 🔭  2021 Goals: Contribute more to Open Source projects
 - ⚡   Fun fact: I love to go to the gym and ride SportBikes
