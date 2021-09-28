@@ -35,12 +35,6 @@
 ### 📕 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking LG WebOS Smart TVs Using A Phone](https://medium.com/geekculture/hacking-lg-webos-smart-tvs-using-a-phone-3fedba5d6f50)
-- [How I Hacked A Hotel Just Using My Phone](https://medium.com/geekculture/how-i-hacked-a-hotel-just-using-my-phone-97f4d2de39ca)
-- [Bypass Server Upload Restrictions](https://infosecwriteups.com/bypass-server-upload-restrictions-69054c5e1be4)
-- [How To Make Your Own Streaming Video Sharing App Using Python](https://medium.com/geekculture/how-to-make-your-own-streaming-video-sharing-app-using-python-481437262fe9)
-- [Make Your Pc Notify Your Phone Whenever There is Movement Around it](https://blog.devgenius.io/make-your-pc-notify-your-phone-whenever-there-is-movement-around-it-c6c4ccd734b7)
-- [This Is How I Hacked My Neighbors Computer](https://infosecwriteups.com/this-is-how-i-hacked-my-neighbors-computer-b4863aa8f305)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
