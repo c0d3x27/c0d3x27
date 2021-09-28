@@ -30,6 +30,9 @@
 <br/>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3x27&layout=compact)](https://github.com/c0d3x27/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c0d3x27)](https://github.com/c0d3x27/github-readme-stats)
+
+
 ---
 
 ### 📕 My Latest Articles
@@ -51,6 +54,9 @@
 ![c0d3x27's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0d3x27&show_icons=true&theme=vue)
 
 </details>
+
+
+
 
 [website]: https://c0d3x27.medium.com
 [twitter]: https://twitter.com/c0d3x27
