@@ -49,9 +49,7 @@
 
 <details>
   
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="c0d3x27's GitHub Stats" src="https://github-readme-stats.c0d3x27.vercel.app/api?username=c0d3x27&show_icons=true&hide_border=true" />
+![c0d3x27's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0d3x27&show_icons=true&theme=vue)
 
 </details>
 
