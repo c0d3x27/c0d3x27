@@ -7,10 +7,10 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with lastest blog posts
+    name: Update this repo's README with lastest articles
     runs-on: unbutu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishanar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
            feed_list: "https://c0d3x27.medium.com/"
