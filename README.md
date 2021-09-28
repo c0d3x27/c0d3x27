@@ -35,6 +35,11 @@
 ### 📕 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking LG WebOS Smart TVs Using A Phone](https://medium.com/geekculture/hacking-lg-webos-smart-tvs-using-a-phone-3fedba5d6f50?source=rss-7255c032b8e9------2)
+- [How I Hacked A Hotel Just Using My Phone](https://medium.com/geekculture/how-i-hacked-a-hotel-just-using-my-phone-97f4d2de39ca?source=rss-7255c032b8e9------2)
+- [Bypass Server Upload Restrictions](https://infosecwriteups.com/bypass-server-upload-restrictions-69054c5e1be4?source=rss-7255c032b8e9------2)
+- [Server-Side Request Forgery (SSRF)](https://infosecwriteups.com/server-side-request-forgery-ssrf-8e0fa290f7e6?source=rss-7255c032b8e9------2)
+- [Getting Your Account Hacked Is Just A Feature On Quora.com](https://c0d3x27.medium.com/getting-your-account-hacked-is-just-a-feature-on-quora-com-6a7c7d0d6cd0?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
