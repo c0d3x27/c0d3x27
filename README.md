@@ -46,11 +46,11 @@
 ### 📕 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest Using Open Source For Evil](https://medium.com/geekculture/hacktoberfest-using-open-source-for-evil-15a55f2fe248?source=rss-7255c032b8e9------2)
 - [How to Create and Sell Your First NFT](https://medium.com/geekculture/how-to-create-and-sell-your-first-nft-f4ebca4e1790?source=rss-7255c032b8e9------2)
 - [Directory illegal Entry Magic](https://medium.com/geekculture/directory-illegal-entry-magic-1a92f21c5cec?source=rss-7255c032b8e9------2)
 - [Hacking LG WebOS Smart TVs Using A Phone](https://medium.com/geekculture/hacking-lg-webos-smart-tvs-using-a-phone-3fedba5d6f50?source=rss-7255c032b8e9------2)
 - [How I Hacked A Hotel Just Using My Phone](https://medium.com/geekculture/how-i-hacked-a-hotel-just-using-my-phone-97f4d2de39ca?source=rss-7255c032b8e9------2)
-- [Bypass Server Upload Restrictions](https://infosecwriteups.com/bypass-server-upload-restrictions-69054c5e1be4?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
