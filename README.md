@@ -50,11 +50,11 @@
 ### 📕 Check My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Parameter Pollution](https://medium.com/geekculture/http-parameter-pollution-981af7894c6e?source=rss-7255c032b8e9------2)
 - [How-To Build a Reddit Bot](https://medium.com/geekculture/how-to-build-a-reddit-bot-809fdf07411d?source=rss-7255c032b8e9------2)
 - [How To Make Your Own Discord Bot](https://medium.com/geekculture/how-to-make-your-own-discord-bot-9505173a4f6a?source=rss-7255c032b8e9------2)
 - [My 5th Valid Vulnerability For The US Federal Government](https://byrslf.co/my-5th-valid-vulnerability-for-the-us-federal-government-8a89a58ae824?source=rss-7255c032b8e9------2)
 - [FaceBook Misconfiguration.OAuth](https://blog.devgenius.io/facebook-misconfiguration-oauth-c0227beb6f62?source=rss-7255c032b8e9------2)
-- [Spear Phishing And Subdomains Takeover](https://medium.com/geekculture/spear-phishing-and-subdomains-takeover-a8f7086a6244?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
