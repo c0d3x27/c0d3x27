@@ -50,11 +50,11 @@
 ### 📕 Check My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Invisible Malicious Apps Remotely, Acting As Updates](https://infosecwriteups.com/install-invisible-malicious-apps-remotely-acting-as-updates-71178979ff13?source=rss-7255c032b8e9------2)
 - [How I Hacked A Reputed Hacker](https://medium.com/geekculture/how-i-hacked-a-reputed-hacker-6e6b31818d12?source=rss-7255c032b8e9------2)
 - [The OAuth Misconfiguration](https://infosecwriteups.com/the-oauth-misconfiguration-15e66dd19a6e?source=rss-7255c032b8e9------2)
 - [Must-Have Tools For Hacking](https://infosecwriteups.com/must-have-tools-for-hacking-c2b75b332d2c?source=rss-7255c032b8e9------2)
 - [HTTP Parameter Pollution](https://medium.com/geekculture/http-parameter-pollution-981af7894c6e?source=rss-7255c032b8e9------2)
-- [How-To Build a Reddit Bot](https://medium.com/geekculture/how-to-build-a-reddit-bot-809fdf07411d?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
