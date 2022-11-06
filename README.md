@@ -50,11 +50,11 @@
 ### 📕 Check My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Attack Admin Panels Successfully](https://infosecwriteups.com/how-to-attack-admin-panels-successfully-72c90eeb818c?source=rss-7255c032b8e9------2)
+- [UBER: The Personal Vendetta](https://blog.devgenius.io/uber-the-personal-vendetta-fda7a8e3124?source=rss-7255c032b8e9------2)
+- [Recognize Speech &amp; Convert It To Text](https://medium.com/geekculture/recognize-speech-convert-it-to-text-491706fc1d24?source=rss-7255c032b8e9------2)
 - [How I Accidentally Prevented A Mass Hacking](https://medium.com/geekculture/how-i-accidentally-prevented-a-mass-hacking-e9cd7ddc15fd?source=rss-7255c032b8e9------2)
 - [What is IDOR Vulnerability, and how does it affect you?](https://infosecwriteups.com/what-is-idor-vulnerability-and-how-does-it-affect-you-85431d10f8fb?source=rss-7255c032b8e9------2)
-- [Install Invisible Malicious Apps Remotely, Acting As Updates](https://infosecwriteups.com/install-invisible-malicious-apps-remotely-acting-as-updates-71178979ff13?source=rss-7255c032b8e9------2)
-- [How I Hacked A Reputed Hacker](https://medium.com/geekculture/how-i-hacked-a-reputed-hacker-6e6b31818d12?source=rss-7255c032b8e9------2)
-- [The OAuth Misconfiguration](https://infosecwriteups.com/the-oauth-misconfiguration-15e66dd19a6e?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
