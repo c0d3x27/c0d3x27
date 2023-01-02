@@ -1,6 +1,6 @@
 name: Latest blog post workflow
 on:
-  feed:
+  fork:
     urls:
       - https://c0d3x27.medium.com/feed
   workflow_dispatch:
