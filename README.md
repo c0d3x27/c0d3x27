@@ -50,11 +50,11 @@
 ### 📕 Check My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Attack Admin Panels Successfully Part 3](https://infosecwriteups.com/how-to-attack-admin-panels-successfully-part-3-ccf36cbc1c57?source=rss-7255c032b8e9------2)
 - [How To Attack Admin Panels Successfully Part 2](https://medium.com/geekculture/how-to-attack-admin-panels-successfully-part-2-9316c3caad3a?source=rss-7255c032b8e9------2)
 - [How To Attack Admin Panels Successfully](https://infosecwriteups.com/how-to-attack-admin-panels-successfully-72c90eeb818c?source=rss-7255c032b8e9------2)
 - [UBER: The Personal Vendetta](https://blog.devgenius.io/uber-the-personal-vendetta-fda7a8e3124?source=rss-7255c032b8e9------2)
 - [Recognize Speech &amp; Convert It To Text](https://medium.com/geekculture/recognize-speech-convert-it-to-text-491706fc1d24?source=rss-7255c032b8e9------2)
-- [How I Accidentally Prevented A Mass Hacking](https://medium.com/geekculture/how-i-accidentally-prevented-a-mass-hacking-e9cd7ddc15fd?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
