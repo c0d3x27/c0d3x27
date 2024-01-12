@@ -50,11 +50,11 @@
 ### 📕 Check My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Login Bypass](https://infosecwriteups.com/windows-login-bypass-eab148bc9dd5?source=rss-7255c032b8e9------2)
+- [Windows RDP Session Hijacking](https://infosecwriteups.com/windows-rdp-session-hijacking-e7b2bbf1356b?source=rss-7255c032b8e9------2)
+- [How To Abuse A Password Manager](https://blog.devgenius.io/how-to-abuse-a-password-manager-7ea9cbe4dbd0?source=rss-7255c032b8e9------2)
+- [How To Windows Privilege Escalation](https://blog.devgenius.io/how-to-windows-privilege-escalation-93bf41ab259d?source=rss-7255c032b8e9------2)
 - [How To Attack Admin Panels Successfully Part 3](https://infosecwriteups.com/how-to-attack-admin-panels-successfully-part-3-ccf36cbc1c57?source=rss-7255c032b8e9------2)
-- [How To Attack Admin Panels Successfully Part 2](https://medium.com/geekculture/how-to-attack-admin-panels-successfully-part-2-9316c3caad3a?source=rss-7255c032b8e9------2)
-- [How To Attack Admin Panels Successfully](https://infosecwriteups.com/how-to-attack-admin-panels-successfully-72c90eeb818c?source=rss-7255c032b8e9------2)
-- [UBER: The Personal Vendetta](https://blog.devgenius.io/uber-the-personal-vendetta-fda7a8e3124?source=rss-7255c032b8e9------2)
-- [Recognize Speech &amp; Convert It To Text](https://medium.com/geekculture/recognize-speech-convert-it-to-text-491706fc1d24?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
