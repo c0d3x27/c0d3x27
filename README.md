@@ -46,11 +46,11 @@
 ### 📕 Check My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking For US Government?Not Worth It](https://c0d3x27.medium.com/hacking-for-us-government-not-worth-it-d0d92b357618?source=rss-7255c032b8e9------2)
-- [Hacktoberfest Using Open Source For Evil](https://medium.com/geekculture/hacktoberfest-using-open-source-for-evil-15a55f2fe248?source=rss-7255c032b8e9------2)
-- [How to Create and Sell Your First NFT](https://medium.com/geekculture/how-to-create-and-sell-your-first-nft-f4ebca4e1790?source=rss-7255c032b8e9------2)
-- [Directory illegal Entry Magic](https://medium.com/geekculture/directory-illegal-entry-magic-1a92f21c5cec?source=rss-7255c032b8e9------2)
-- [Hacking LG WebOS Smart TVs Using A Phone](https://medium.com/geekculture/hacking-lg-webos-smart-tvs-using-a-phone-3fedba5d6f50?source=rss-7255c032b8e9------2)
+- [Hack Stories: Hacking Hackers EP:1](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-1-ff4c3cfc09cc?source=rss-7255c032b8e9------2)
+- [Windows Login Bypass](https://infosecwriteups.com/windows-login-bypass-eab148bc9dd5?source=rss-7255c032b8e9------2)
+- [Windows RDP Session Hijacking](https://infosecwriteups.com/windows-rdp-session-hijacking-e7b2bbf1356b?source=rss-7255c032b8e9------2)
+- [How To Abuse A Password Manager](https://blog.devgenius.io/how-to-abuse-a-password-manager-7ea9cbe4dbd0?source=rss-7255c032b8e9------2)
+- [How To Windows Privilege Escalation](https://blog.devgenius.io/how-to-windows-privilege-escalation-93bf41ab259d?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
