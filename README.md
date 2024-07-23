@@ -50,11 +50,11 @@
 ### 📕 Check My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [My Hunt: Discovering Microsoft Bugs](https://infosecwriteups.com/my-hunt-discovering-microsoft-bugs-f6a9c790bec0?source=rss-7255c032b8e9------2)
+- [Hack Stories: Hacking Hackers EP:3](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-3-11b1f0e002e8?source=rss-7255c032b8e9------2)
+- [Hack Stories: Hacking Hackers EP:2](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-2-b4d2e628781e?source=rss-7255c032b8e9------2)
 - [Hack Stories: Hacking Hackers EP:1](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-1-ff4c3cfc09cc?source=rss-7255c032b8e9------2)
 - [Windows Login Bypass](https://infosecwriteups.com/windows-login-bypass-eab148bc9dd5?source=rss-7255c032b8e9------2)
-- [Windows RDP Session Hijacking](https://infosecwriteups.com/windows-rdp-session-hijacking-e7b2bbf1356b?source=rss-7255c032b8e9------2)
-- [How To Abuse A Password Manager](https://blog.devgenius.io/how-to-abuse-a-password-manager-7ea9cbe4dbd0?source=rss-7255c032b8e9------2)
-- [How To Windows Privilege Escalation](https://blog.devgenius.io/how-to-windows-privilege-escalation-93bf41ab259d?source=rss-7255c032b8e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more articles...](https://c0d3x27.medium.com)
