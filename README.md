@@ -3,8 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/c0d3x27?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fc0d3x27&screen_name=c0d3x27)
 
 <p align="center"> 
-  Visitors (Since 09/29/2021):<br>
-  <img src="https://komarev.com/ghpvc/?username=c0d3x27" alt="Profile views" />
+  Visitors (Since 09/29/2021): <a href="https://komarev.com/ghpvc/?username=c0d3x27" target="_blank">View Counter</a><br>
+  
 </p>
 
 
