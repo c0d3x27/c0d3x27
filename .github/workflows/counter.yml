@@ -1,0 +1,67 @@
+name: Update Profile Counter
+
+on:
+  # Update counter every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch live count from komarev
+        id: fetch
+        run: |
+          # Get the current SVG from komarev
+          curl -s "https://komarev.com/ghpvc/?username=c0d3x27" > komarev.svg
+          
+          # Extract the count number
+          COUNT=$(grep -oP '(?<=<text x="86\.7" y="14">)[0-9]+' komarev.svg)
+          if [ -z "$COUNT" ]; then
+            # Fallback: try the title
+            COUNT=$(grep -oP '(?<=PROFILE VIEWS: )[0-9]+' komarev.svg)
+          fi
+          if [ -z "$COUNT" ]; then
+            COUNT=0
+          fi
+          
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Live count from komarev: $COUNT"
+          cat komarev.svg
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update counter badge
+        run: |
+          NEW_COUNT=${{ steps.fetch.outputs.count }}
+          
+          # Read current count from our badge
+          CURRENT=$(grep -oP '(?<=font-weight="bold">)[0-9]+' counter.svg)
+          
+          echo "Current: $CURRENT | New: $NEW_COUNT"
+          
+          if [ "$CURRENT" != "$NEW_COUNT" ]; then
+            # Update the SVG with the new count
+            sed -i "s/PROFILE VIEWS: [0-9]*/PROFILE VIEWS: $NEW_COUNT/g" counter.svg
+            sed -i "s/font-weight=\"bold\">[0-9]*/font-weight=\"bold\">$NEW_COUNT/g" counter.svg
+            sed -i "s/<text x=\"86\.7\" y=\"15\" fill=\"#010101\" fill-opacity=\"\.3\">[0-9]*/<text x=\"86.7\" y=\"15\" fill=\"#010101\" fill-opacity=\"\.3\">$NEW_COUNT/g" counter.svg
+            sed -i "s/<text x=\"86\.7\" y=\"14\">[0-9]*/<text x=\"86.7\" y=\"14\">$NEW_COUNT/g" counter.svg
+            
+            git config user.name "counter-bot"
+            git config user.email "counter-bot@users.noreply.github.com"
+            git add counter.svg
+            git commit -m "Update profile views to $NEW_COUNT
+            Co-Authored-By: GitHub Actions <actions@github.com>"
+            git push
+            echo "✓ Counter updated to $NEW_COUNT"
+          else
+            echo "Count unchanged ($CURRENT)"
+          fi
+
+      - name: Ping komarev to increment
+        run: |
+          curl -s "https://komarev.com/ghpvc/?username=c0d3x27" > /dev/null
+          echo "Komarev counter pinged"
