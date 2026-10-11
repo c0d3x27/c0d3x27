@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitors (Since 09/29/2021):<br>
-  <a class="no-underline" href="https://github.com/visit-count/visit-count" target="_blank"><img src="https://komarev.com/ghpvc/?username=c0d3x27&style=for-the-badge&color=blue" alt="Visitors" /></a>
+  <img src="https://komarev.com/ghpvc/?username=c0d3x27" alt="Profile views" />
 </p>
 
 
